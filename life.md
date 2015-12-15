@@ -13,6 +13,7 @@ Programming Languages
 - 09/2013-2015 Bash
 - 09/2013-2015 Latex
 - 09/2013-05/2014 C
+- 10/2013-12/2013 Assembly
 - 02/2014-05/2014 R
 - 02/2013-2015 Python Take 2
 - 02/2015-05/2015 Rust Take 1
